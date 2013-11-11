@@ -1,4 +1,5 @@
 blog-notebooks
 ==============
 
-A repository containing the IPython Notebooks I use for my personal blog.
+This is a repository containing various IPython Notebooks I've used in my personal blog. My personal blog can be found
+at www.kirknorth.com.
